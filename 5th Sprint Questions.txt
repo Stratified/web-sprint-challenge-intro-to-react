@@ -1,0 +1,11 @@
+    What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+React JS is a JavaScript library that works in components and makes it easier to put things together in a more organized and efficient fashion.
+
+    Describe component state.
+Component state is the state of a component. You set an initial state to a component and change it with the useState() hook.
+
+    Describe props.
+Props are properties that are passed down from parent components to child components.
+
+    What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+Side effects is/are (a) hook(s) having to do with the reloading of a component based upon certain conditions.
